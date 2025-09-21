@@ -18,20 +18,28 @@ A Salesforce CRM solution can centralize customer and distributor data, track in
 This project will build a scalable Salesforce CRM solution for a hardware retail chain or wholesale supplier. The system will be designed to handle multi-location operations and streamline core business processes. The CRM will:
 
 # 1.) Track Customer Accounts, Distributors, and Purchase Orders :
-a.) All customer and distributor information will be digitized using custom Salesforce objects.
-b.) Purchase histories, orders, and payment statuses will be linked to each account for easy tracking.
-c.) Manage Stock Levels Across Multiple Branches/Warehouses:
-d.) Real-time inventory tracking across locations will ensure stock availability is always visible.
-e.) Inventory will automatically update when new orders are placed or fulfilled, preventing manual errors.
+a.) All customer and distributor information will be digitized using custom Salesforce objects.  
 
-# 2.) Automate Low-Stock Alerts and Supplier Reordering:
+b.) Purchase histories, orders, and payment statuses will be linked to each account for easy tracking.
+
+# 2.) Manage Stock Levels Across Multiple Branches/Warehouses:
+a.) Real-time inventory tracking across locations will ensure stock availability is always visible.
+
+b.) Inventory will automatically update when new orders are placed or fulfilled, preventing manual errors.
+
+# 3.) Automate Low-Stock Alerts and Supplier Reordering:
 a.) The system will generate automatic notifications when stock drops below defined thresholds.
+
 b.) Reorders to suppliers will be triggered automatically to maintain inventory levels efficiently.
-c.) Provide Dashboards for Revenue, Top Products, and Branch Performance:
-d.) Interactive dashboards will display key metrics such as sales trends, branch performance, and top-selling products.
-e.) Management will have a clear overview to make informed business decisions.
+
+# 4.) Provide Dashboards for Revenue, Top Products, and Branch Performance:
+a.) Interactive dashboards will display key metrics such as sales trends, branch performance, and top-selling products.
+
+b.) Management will have a clear overview to make informed business decisions.
 
 # 3.) Streamline the Order Process and Payment Tracking:
 a.) Orders will be processed systematically within the CRM, with automated invoice generation and payment status updates.
+
 b.) This reduces manual intervention, minimizes errors, and speeds up the order-to-payment cycle.
+
 c.) By implementing these features, the solution will be practical, scalable, and directly aligned with the needs of medium-to-large hardware businesses. It will enable operational efficiency, provide clear visibility into stock and sales performance, and support management in making timely, informed decisions.
