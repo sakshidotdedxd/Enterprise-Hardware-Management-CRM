@@ -37,9 +37,11 @@ a.) Interactive dashboards will display key metrics such as sales trends, branch
 
 b.) Management will have a clear overview to make informed business decisions.
 
-# 3.) Streamline the Order Process and Payment Tracking:
+# 5.) Streamline the Order Process and Payment Tracking:
 a.) Orders will be processed systematically within the CRM, with automated invoice generation and payment status updates.
 
 b.) This reduces manual intervention, minimizes errors, and speeds up the order-to-payment cycle.
 
-c.) By implementing these features, the solution will be practical, scalable, and directly aligned with the needs of medium-to-large hardware businesses. It will enable operational efficiency, provide clear visibility into stock and sales performance, and support management in making timely, informed decisions.
+
+
+By implementing these features, the solution will be practical, scalable, and directly aligned with the needs of medium-to-large hardware businesses. It will enable operational efficiency, provide clear visibility into stock and sales performance, and support management in making timely, informed decisions.
